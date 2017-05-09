@@ -1,0 +1,18 @@
+    .color1{
+      background-color: grey;
+      height: 8px;
+    }
+    .fr{
+      float: right;
+    }
+    .mt{
+      margin-top: 20px;
+    }
+    footer{
+      background-color: black;
+      text-align: center;
+      margin-top: 20px;
+    }
+    .p2{
+      color: white;
+    }
